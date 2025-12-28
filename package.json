@@ -8,8 +8,6 @@
         "build": "vite build",
         "lint": "eslint .",
         "preview": "vite preview",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
     },
     "dependencies": {
         "react": "^19.2.0",
@@ -25,6 +23,5 @@
         "eslint-plugin-react-refresh": "^0.4.24",
         "globals": "^16.5.0",
         "vite": "^7.2.4"
-    },
-    "homepage": "https://dat2004777.github.io/QuizApp"
+    }
 }
